@@ -1,0 +1,1 @@
+adc1_scan_exti0_usart2_usart3_thingspeak\startup_stm32f407xx.o: startup_stm32f407xx.s
